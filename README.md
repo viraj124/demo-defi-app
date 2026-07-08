@@ -1,4 +1,4 @@
-# 🏦 My First DApp — DEMO Vault (ERC-4626)
+# 🏦 Demo DeFi DApp — DEMO Vault (ERC-4626)
 
 A minimal but complete DeFi dapp: an ERC-20 token with a faucet, an
 **ERC-4626 tokenized yield vault** whose share price appreciates every
